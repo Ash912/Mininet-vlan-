@@ -1,1 +1,1 @@
-Mininet Vlan topology using python. Docker container hosts are connected to switches.
+Mininet Vlan topology using python. Docker container hosts are created.
